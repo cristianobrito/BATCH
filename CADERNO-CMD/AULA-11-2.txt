@@ -1,0 +1,24 @@
+arquivos da aula de 11
+
+systeminfo >info.log 
+ipconfig >ip.txt 
+netstat >status.txt
+dir >ex.txt 
+arp -a >arpe.txt 
+ipconfig >joyce.txt
+ping ip >teste.txt
+dir >usuario.txt 
+dir >sei.txt 
+ping www.recodepro.org.br >pego3.txt 
+netstat /a >>info_tcp-ip.txt 
+arp /a >>info_tcp-ip.txt [ sem perder as informações acima eu adiciono no arquivo outras informações com o operador >> ]
+ipconfig /all >>info_tcp-ip.txt [ mais dados acrescentados ao mesmo arquivos ]
+whoami >quem.txt 
+dir | sort [ colocar em ordem alfabetica e redirecionar ]
+type ler arquivos não iimporta a extenção 
+
+type [ nome do arquivo ]
+
+ler o arquivo e encontra a filtragem gateway e salva no arquivo result  
+type info_tcp-ip.txt | find /i /n "gateway" >result.txt 
+

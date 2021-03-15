@@ -1,0 +1,76 @@
+
+Configuraá∆o de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de Rede sem Fio Conex∆o Local* 1:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador de Rede sem Fio Conex∆o Local* 2:
+
+   Estado da m°dia. . . . . . . . . . . . . .  : m°dia desconectada
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+
+Adaptador Ethernet VMware Network Adapter VMnet1:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::44c5:9d99:85e7:fdeb%5
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.146.1
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+
+Adaptador Ethernet VMware Network Adapter VMnet8:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::f5be:9c72:9326:a457%13
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.150.1
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Endereáo IPv6 de link local . . . . . . . . : fe80::1925:b801:e61a:c0a%9
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 192.168.1.103
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 192.168.1.1
+
+Interface: 192.168.146.1 --- 0x5
+  Endereáo IP           Endereáo f°sico       Tipo
+  192.168.146.254       00-50-56-fa-35-f1     dinÉmico  
+  192.168.146.255       ff-ff-ff-ff-ff-ff     est†tico  
+  224.0.0.2             01-00-5e-00-00-02     est†tico  
+  224.0.0.22            01-00-5e-00-00-16     est†tico  
+  224.0.0.251           01-00-5e-00-00-fb     est†tico  
+  224.0.0.252           01-00-5e-00-00-fc     est†tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est†tico  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     est†tico  
+
+Interface: 192.168.1.103 --- 0x9
+  Endereáo IP           Endereáo f°sico       Tipo
+  192.168.1.1           b0-95-75-2e-98-e0     dinÉmico  
+  192.168.1.255         ff-ff-ff-ff-ff-ff     est†tico  
+  224.0.0.2             01-00-5e-00-00-02     est†tico  
+  224.0.0.22            01-00-5e-00-00-16     est†tico  
+  224.0.0.251           01-00-5e-00-00-fb     est†tico  
+  224.0.0.252           01-00-5e-00-00-fc     est†tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est†tico  
+  255.255.255.255       ff-ff-ff-ff-ff-ff     est†tico  
+
+Interface: 192.168.150.1 --- 0xd
+  Endereáo IP           Endereáo f°sico       Tipo
+  192.168.150.255       ff-ff-ff-ff-ff-ff     est†tico  
+  224.0.0.2             01-00-5e-00-00-02     est†tico  
+  224.0.0.22            01-00-5e-00-00-16     est†tico  
+  224.0.0.251           01-00-5e-00-00-fb     est†tico  
+  224.0.0.252           01-00-5e-00-00-fc     est†tico  
+  239.255.255.250       01-00-5e-7f-ff-fa     est†tico  
+ele esta acrescentando coisa 
+seja escrito na frente ou atras
+como linhas em branco 
