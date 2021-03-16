@@ -1,0 +1,30 @@
+1 . crie uma pasta na raiz C: 
+    [ CBS ] 
+
+2 . adicione essa pasta ao path do windows 
+    de o comando path no cmd para ver 
+    set path 
+    OBS: adicionando uma pasta ao path podemos usa-la de qualquer lugar do sistema 
+         é como se fosse uma serie de pastas que o sistema busca para executar
+    ==============================================================================
+    ADICIONANDO UMA PASTA AO PATH 
+
+    copy o caminho da pasta - computador - click direito [ propriedades ] - configurações avançadas do sistema - 
+    variaveis de ambiente - variaveis do sistema - selecione path - edit - cole o path da pasta 
+    obs em alguns casos é preciso adicionar ; e colar o caminho da pasta 
+
+    METODO 2 ADICIONANDO AO PATH PELO CMD 
+    execute o cmd como administrador 
+    digite o comando abaixo 
+    setx path "%path%;C:\CBS"
+    tecle [ ENTER ]
+    
+    setx                   [ é o comando ]
+    path                   [ é o nome da variavel ]
+    "%path;%"              [ nome da variavel ]
+    ;                      [ depois do ; vem o caminho para a pasta o ponto e virgula separa os caminhos das pastas é um separador de caminhos]
+
+    se tudo der certo aparece a mensagem: ÊXITO: o valor especificado foi salvo. 
+    
+    OBSERVAÇÃO IMPORTANTE NO MEU TIVE QUE CONFIGURAR A VARIAVEL PELO 1 EXEMPLO 
+    
