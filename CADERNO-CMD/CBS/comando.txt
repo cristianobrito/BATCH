@@ -1,0 +1,13 @@
+LISTA DE ATUALIZAÇÕES DO PC
+wmic qfe get hotfixid 
+
+systminfo 
+
+======================================
+MOVER ARQUIVO 
+move [ nome-do-arquivo ] [ destino ]
+
+move separador.bat c:\CBS  
+
+======================================
+
