@@ -13,4 +13,4 @@ ipconfig -a >>caixatem3.txt
 
 echo "esse e o ping"
 
-ping -t 192.198.0.87 >>caixatem4.txt
+ping -t coloque o ip >>caixatem4.txt
