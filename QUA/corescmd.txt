@@ -1,0 +1,12 @@
+0 preto         8 cinza escuro (seria o "preto claro" kkk)
+1 azul          9 azul claro
+2 verde         a verde claro
+3 ciano         b ciano claro
+4 vermelho      c vermelho claro
+5 magenta       d magenta claro
+6 amarelo       e amarelo claro
+7 cinza         f branco
+
+Exemplo para alterar as letras para amarelo forte e fundo verde escuro:
+
+color 2e
